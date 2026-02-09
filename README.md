@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Next.js, and Performance Optimization**
 
-- 👨‍💻 All of my projects are available at https://www.asadullahabbasi.com
+- 👨‍💻 All of my projects are available at [https://www.asadullahabbasi.com](https://tinyurl.com/asadullahabbasi)
 
 - 💬 Ask me about **React, Next.js, Node.js, MongoDB, Firebase, Tailwind, State Management**
 
